@@ -11,5 +11,10 @@
 ![HIBERNATE](https://img.shields.io/badge/HIBERNATE-0d0d0d?style=for-the-badge&logo=hibernate)
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=mysql)
 
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=Telegram)](https://t.me/ToleubekB)
+[![GIT](https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=Github)](https://github.com/toleubekbogenbai)
 
-Follow me
+
+
+
