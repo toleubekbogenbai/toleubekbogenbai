@@ -6,7 +6,6 @@
 ![JAVA](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=JAVA)
 ![OOP](https://img.shields.io/badge/ООП-0d0d0d?style=for-the-badge&logo=JAVA)
 ![SpringMVC](https://img.shields.io/badge/SPRING_MVC-0d0d0d?style=for-the-badge&logo=SPRING)
-![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logo=)
 ![Spring Boot](https://img.shields.io/badge/SPRING_SECURITY-0d0d0d?style=for-the-badge&logo=SPRINGBOOT)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0d0d?style=for-the-badge&logo=SPRINGBOOT)
 ![HIBERNATE](https://img.shields.io/badge/HIBERNATE-0d0d0d?style=for-the-badge&logo=hibernate)
