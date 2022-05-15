@@ -10,6 +10,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0d0d?style=for-the-badge&logo=SPRINGBOOT)
 ![HIBERNATE](https://img.shields.io/badge/HIBERNATE-0d0d0d?style=for-the-badge&logo=hibernate)
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML-0d0d0d?style=for-the-badge&logo=HTML5)
+
 
 Follow me
