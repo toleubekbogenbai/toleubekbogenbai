@@ -1,4 +1,4 @@
-[![Header](https://github.com/toleubekbogenbai/toleubekbogenbai/blob/main/Toleubek%20Bogenbai.png)]
+![Header](https://github.com/toleubekbogenbai/toleubekbogenbai/blob/main/Toleubek%20Bogenbai.png)
 
 ## I am Java Developer
 
