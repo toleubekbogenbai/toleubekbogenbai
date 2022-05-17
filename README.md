@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=mysql)
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=Telegram)](https://t.me/ToleubekB)
+[![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=Telegram)](https://t.me/ToleubekBS)
 [![GIT](https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=Github)](https://github.com/toleubekbogenbai)
 
 
